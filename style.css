@@ -171,7 +171,7 @@ p {
 
 .profile-card header a>img {
     width: 140px;
-    max-width: 100%;
+    max-width: 100%; 
     -webkit-border-radius: 50%;
     border-radius: 50%;
     -webkit-transition: -webkit-box-shadow 0.3s ease;
@@ -605,6 +605,7 @@ p{
             width: 90%;
             height: 70vh;
             max-width: 440px;
+            max-height: 625px;
             background: rgba(209, 241, 246, 0.2);
             border-radius: 16px;
             text-align: center;
