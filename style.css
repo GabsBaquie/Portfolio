@@ -606,6 +606,8 @@ p{
             height: 70vh;
             max-width: 440px;
             max-height: 625px;
+            position: relative;
+            top: 43%;
             background: rgba(209, 241, 246, 0.2);
             border-radius: 16px;
             text-align: center;
